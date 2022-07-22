@@ -29,7 +29,7 @@
     "mongoose-paginate-v2": "1.7.0",
     "passport": "0.6.0",
     "passport-google-oauth": "2.0.0",
-    "pino": "8.1.0",
+    "pino": "8.3.0",
     "pino-pretty": "8.1.0",
     "superagent": "8.0.0",
     "swagger-jsdoc": "6.2.1",
